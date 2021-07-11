@@ -1,0 +1,3 @@
+id,password,last_login,is_superuser,username,first_name,last_name,is_staff,is_active,date_joined,email,address,company,dob
+1,pbkdf2_sha256$260000$o1Q1AhmYEHCfgFpjuQUsne$1YGFOQBoY7C42ikX2DayjD4UY4gT+Bl4oTUtRBcbe10=,"2021-07-11 18:40:46.877662",1,coolpallavi16@gmail.com,,,1,1,"2021-07-11 18:40:17.548081",coolpallavi16@gmail.com,NULL,NULL,NULL
+2,pbkdf2_sha256$260000$zvoR8oQr20wWKyYZHYMy3f$MwzoQRSvp3emLSz7beLiQtfKXG3nTZeGUk+R9Nx+M+M=,NULL,0,coolpallavi17@gmail.com,PPk,,0,1,"2021-07-11 21:32:23.528280",coolpallavi17@gmail.com,NULL,NULL,NULL

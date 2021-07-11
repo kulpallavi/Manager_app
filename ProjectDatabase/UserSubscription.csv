@@ -1,0 +1,2 @@
+paymentMethod,price,isPaid,paidAt,_id,plan_id,user_id,plan_name,user_details,endDate
+PayPal,1000,1,08:11.2,1,2,2,Basic,coolpallavi17@gmail.com,08:11.2

@@ -1,0 +1,4 @@
+Manager Properties: email, firstname, lastname, password, address, dob,company
+
+AZSmb66dgCigu2G6tEqCXfpojhIxGfBE6Yy3KMG69gVGj7ohWfyiItB3mU-VxfaeSsQfwNOKh6qcU06X
+AcUxrVfqbSH36k18pd_sTH2e6Q8CjLepK86iji-I6AXp-EBcqcZfZDiUFvCTal-5ESsDxLsFzT7gPy8p
