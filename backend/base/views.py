@@ -190,19 +190,6 @@ class UpdateSubscriptionToPaid(APIView):
         return Response('Order was paid')
 
 
-# class GetMyOrder(APIView):
-
-#     """
-#     Get My Order /Subscription
-#     """
-#     permission_classes = [IsAuthenticated]
-#     def get(self, request,format=None):
-#         user = request.user
-#         order = UserSubscription.objects.get(user)
-#         serializer = UserSubscriptionSerializer(order, many=False)
-#         return Response(serializer.data)
-
-
 class SubscriptionsListView(APIView):
     
     def get(self,request):
